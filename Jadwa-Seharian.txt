@@ -1,0 +1,4 @@
+Daftar sehari-hari
+-Belajar Java script
+-Belajar PHP
+-Belajar Rest API
